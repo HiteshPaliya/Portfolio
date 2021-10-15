@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00e58b76.chunk.css",
+    "main.js": "/static/js/main.6fc57818.chunk.js",
+    "main.js.map": "/static/js/main.6fc57818.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.b456463b.chunk.js": "/static/js/2.b456463b.chunk.js",
+    "static/js/2.b456463b.chunk.js.map": "/static/js/2.b456463b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a46521a254f92e00f2ec98e76b831dca.js": "/precache-manifest.a46521a254f92e00f2ec98e76b831dca.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.00e58b76.chunk.css.map": "/static/css/main.00e58b76.chunk.css.map",
+    "static/js/2.b456463b.chunk.js.LICENSE.txt": "/static/js/2.b456463b.chunk.js.LICENSE.txt",
+    "static/media/100.jpg": "/static/media/100.53c38366.jpg",
+    "static/media/100.png": "/static/media/100.8f1df092.png",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
+    "static/media/codecademy.jpg": "/static/media/codecademy.0dca6e2b.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/hitesh.jpg": "/static/media/hitesh.5a042554.jpg",
+    "static/media/hrishi2.png": "/static/media/hrishi2.66e2d22b.png",
+    "static/media/quicko.jpg": "/static/media/quicko.e56f163e.jpg",
+    "static/media/silveroak.png": "/static/media/silveroak.3cdfa8d9.png",
+    "static/media/sololearn.png": "/static/media/sololearn.b7811c2f.png",
+    "static/media/techd.png": "/static/media/techd.37e700ca.png",
+    "static/media/uofm.png": "/static/media/uofm.06e99df1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.b456463b.chunk.js",
+    "static/css/main.00e58b76.chunk.css",
+    "static/js/main.6fc57818.chunk.js"
+  ]
+}
